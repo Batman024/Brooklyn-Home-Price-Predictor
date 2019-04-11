@@ -53,7 +53,7 @@ Lastly, as per the paper[3], the some of the variables taken into consideration 
 # References #
 * 1.Modeling House Price Prediction using Regression Analysis and Particle Swarm Optimization ,International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 8, No. 10, 2017
 * 2.Predicting Housing Value, The Journal of Real Estate Research (JRER)  Vol. 22  No. 3 – 2001 
-* 3.Housing Price Prediction, An Nguyen, Appendix table 6
+* 3.Housing Price Prediction, An Nguyen, Appendix Table 6
 
 
 
