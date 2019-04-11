@@ -44,8 +44,7 @@ Final dashboard for user group will make use of the predictions from our models 
 
 The dataset can be found at this location: https://drive.google.com/open?id=1r2nISvGxzBH0qE4nMHM05bMFGYhsfF2u
 
-##References, Citations and Abstract##
-#Abstract:
+# Abstract #
 A couple of papers related to housing price predictions were refered to decide upon the variable.
 As per the paper[1],Physical conditions are properties possessed by a house that can be observed by human senses, including the <b>size of the house</b>, the number of bedrooms, the availability of kitchen and garage, the availability of the garden, the area of land and buildings, and the age of the house, while the concept is an idea offered by developers who can attract potential buyers, forexample, the concept of a minimalist home, healthy and green environment, and <b>elite environment</b>. The elite environment is captured by the variable named neighborhood
 Further more, as per the papaer[2],The property attributes available and used for thier study were: <b>the
