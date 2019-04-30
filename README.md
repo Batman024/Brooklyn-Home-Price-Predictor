@@ -44,7 +44,7 @@ Final dashboard for user group will make use of the predictions from our models 
 
 The dataset can be found at this location: https://drive.google.com/open?id=1r2nISvGxzBH0qE4nMHM05bMFGYhsfF2u
 
-Please refer the notebook Data Exploratory Analysis Brooklyn Houses Prices 2003 - 2018 (v-3).ipynb. which contains the full coverage of the project
+<b>Please refer the notebook Data Exploratory Analysis Brooklyn Houses Prices 2003 - 2018 (v-3).ipynb. which contains the full coverage of the project</b>
 
 # Abstract #
 A couple of papers related to housing price predictions were referred to decide upon the variable.
