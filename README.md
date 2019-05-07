@@ -38,6 +38,8 @@ The dataset can be found at this location: https://drive.google.com/open?id=1r2n
 
 <b>Please refer the notebook Data Exploratory Analysis Brooklyn Houses Prices 2003 - 2018 (v-3).ipynb. which contains the full coverage of the project</b>
 
+<b>Please refer the file MergedBrooklynDashboard - users.pptx and MergedBrooklynDashboard - users.twb in order to see the dashboards. The Dashboard uses the data source kept in JoinedBrooklyn zipped folder</b>
+
 # Abstract #
 A couple of papers related to housing price predictions were referred to decide upon the variable.
 As per the paper[1],Physical conditions are properties possessed by a house that can be observed by human senses, including the <b>size of the house</b>, the number of bedrooms, the availability of kitchen and garage, the availability of the garden, the area of land and buildings, and the age of the house, while the concept is an idea offered by developers who can attract potential buyers, for example, the concept of a minimalist home, healthy and green environment, and <b>elite environment</b>. The elite environment is captured by the variable named neighborhood.
