@@ -6,14 +6,6 @@ This is a project implementing the machine learning model for predict home sale 
 
  I have a house at brooklyn. Based on the certain parameters such as area(per square ft), zipcode, nieghbourhood, year of built and      type of property I would like to know the estimated sale price of the kind of property I am looking for.
  
- 
- Based on the kind of property I have, I have put it up for sale. I have kept a asking price for the same. Based on the parameters such as
- area(per square ft), zipcode, nieghbourhood, year of built, I would like to know whether my asking price is approriate or not.
- 
- Here we have assumed that if the asking price is within +/- 10 % of the predicted price, then asking price is appropriate
-    
-    
-
 
 2)  Domain and Data: 
 
@@ -58,7 +50,12 @@ Lastly, as per the paper[3], the some of the variables taken into consideration 
 2. Predicting Housing Value, The Journal of Real Estate Research (JRER)  Vol. 22  No. 3 – 2001 
 3. Housing Price Prediction, An Nguyen, Appendix Table 6
 
-
+Team member	Duties
+Daniel 	  "DashBoards on Tableau||Data Exploration||Random Forest Model prediction"
+Jason	    "Initial DataSet finding||Data Cleansing"
+Harshini  "Initial DataSet finding||git-hub site curation"
+Sagar 	   "Creating shell scripts for loading the data into the bigquery||Initial visuals regarding data(word cloud/lms plot)
+           Linear regression model (normalised/ unnormalised)||Creating the model infrastructure(i.e preparation of project steps)"
 
 
 
