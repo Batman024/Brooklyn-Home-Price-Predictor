@@ -51,7 +51,9 @@ Lastly, as per the paper[3], the some of the variables taken into consideration 
 3. Housing Price Prediction, An Nguyen, Appendix Table 6
 <table>
 <th>Team member</th>	<th>Duties</th>
-Daniel 	  "DashBoards on Tableau||Data Exploration||Random Forest Model prediction"
+ <tr>
+<td>Daniel</td> <td>	  "DashBoards on Tableau||Data Exploration||Random Forest Model prediction"</td>
+  </tr>
 Jason	    "Initial DataSet finding||Data Cleansing"
 Harshini  "Initial DataSet finding||git-hub site curation"
 Sagar 	   "Creating shell scripts for loading the data into the bigquery||Initial visuals regarding data(word cloud/lms plot)
