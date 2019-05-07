@@ -32,7 +32,7 @@ GCP further processing/ Evaluation of results: Evaluation of results will be tai
 Steps for production Model: Extract phase will involve polling the datasource https://www1.nyc.gov/site/finance/taxes/property-annualized-sales-update.page every year. This will be a scheduled cron job that will be run periodically. The data is usually made available in the month of april. Upon the extraction of the data which is originally in the xls format, the file is transformed to csv format. The csv file is further transformed to remove unnecessary headers from the file to make  it fit for building machine learning models. 
      
      
-Final dashboard for user group will make use of the predictions from our models into appealing visuals to help our target user group make better decisions regarding their real estate transactions
+Final dashboard for user group will make use of the predictions from our models into appealing visuals to help our target user group make better decisions regarding their real estate transactions.
 
 The dataset can be found at this location: https://drive.google.com/open?id=1r2nISvGxzBH0qE4nMHM05bMFGYhsfF2u
 
