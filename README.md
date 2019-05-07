@@ -49,13 +49,13 @@ Lastly, as per the paper[3], the some of the variables taken into consideration 
 1. Modeling House Price Prediction using Regression Analysis and Particle Swarm Optimization ,International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 8, No. 10, 2017
 2. Predicting Housing Value, The Journal of Real Estate Research (JRER)  Vol. 22  No. 3 – 2001 
 3. Housing Price Prediction, An Nguyen, Appendix Table 6
-
-Team member	Duties
+<table>
+<th>Team member</th>	<th>Duties</th>
 Daniel 	  "DashBoards on Tableau||Data Exploration||Random Forest Model prediction"
 Jason	    "Initial DataSet finding||Data Cleansing"
 Harshini  "Initial DataSet finding||git-hub site curation"
 Sagar 	   "Creating shell scripts for loading the data into the bigquery||Initial visuals regarding data(word cloud/lms plot)
            Linear regression model (normalised/ unnormalised)||Creating the model infrastructure(i.e preparation of project steps)"
 
-
+</table>
 
