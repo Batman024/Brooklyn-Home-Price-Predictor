@@ -52,12 +52,16 @@ Lastly, as per the paper[3], the some of the variables taken into consideration 
 <table>
 <th>Team member</th>	<th>Duties</th>
  <tr>
-<td>Daniel</td> <td>	  "DashBoards on Tableau||Data Exploration||Random Forest Model prediction"</td>
+<td>Daniel</td> <td>	  DashBoards on Tableau, Data Exploration, Random Forest Model prediction</td>
   </tr>
-Jason	    "Initial DataSet finding||Data Cleansing"
-Harshini  "Initial DataSet finding||git-hub site curation"
-Sagar 	   "Creating shell scripts for loading the data into the bigquery||Initial visuals regarding data(word cloud/lms plot)
-           Linear regression model (normalised/ unnormalised)||Creating the model infrastructure(i.e preparation of project steps)"
+ <tr>
+<td>Jason</td><td>	    Initial DataSet finding, Data Cleansing </td>
+</tr>
+ <tr>
+<td>Harshini</td>  <td>Initial DataSet finding, git-hub site curation</td>
+</tr>
+
+<td>Sagar</td> 	   <td>Creating shell scripts for loading the data into the bigquery, Initial visuals regarding data(word cloud/lms plot), Linear regression model (normalised/ unnormalised), Creating the model infrastructure(i.e preparation of project steps)</td>
 
 </table>
 
